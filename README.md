@@ -1,2 +1,2 @@
 # Calculation-of-SUV-from-fused-PET-CT-scans-
-the calculation of the SUVs of PET images by MATLAB software-based programming has taken on a major role and come out as an alternate way of determining SUV values rather than the commercial-based software. This sricpt promots the algorithm of calculation the SUV using pixel based information from fused based PET-CT image and patient's weight+ injected dose (mCi).
+The calculation of the SUVs of PET images by MATLAB software-based programming has taken on a major role and come out as an alternate way of determining SUV values rather than the commercial-based software. This sricpt promots the algorithm of calculation the SUV using pixel based information from fused based PET-CT image and patient's weight+ injected dose (mCi).
